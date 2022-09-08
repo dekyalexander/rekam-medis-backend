@@ -1,4 +1,4 @@
-backend for role application
+backend for medical record and medicine stock application
 
 step to run locally :
 
